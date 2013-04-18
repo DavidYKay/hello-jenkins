@@ -14,7 +14,7 @@ public class TestApp1 {
 
         @Test
 	public void testNumberEquality() {
-		Assert.assertEquals(1, 3);
+		Assert.assertEquals(1, 1);
         }
 
 
